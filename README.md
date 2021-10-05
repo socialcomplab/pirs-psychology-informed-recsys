@@ -8,7 +8,7 @@ This repository contains all the material supporting the tutorial *Psychology-in
 * Proceedings Paper ([link]())
 
 
-For information, please contact us at
+For more information about the tutorial, please contact us at
 
 * Elisabeth Lex <elisabeth.lex@tugraz.at>
 * Markus Schedl <markus.schedl@jku.at>
