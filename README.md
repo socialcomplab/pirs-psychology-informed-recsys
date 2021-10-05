@@ -11,4 +11,4 @@ This repository contains all the material supporting the tutorial *Psychology-in
 For information, please contact us at
 
 * Elisabeth Lex <elisabeth.lex@tugraz.at>
-* Markus Schedl <mschedl@jku.at>
+* Markus Schedl <markus.schedl@jku.at>
