@@ -1,4 +1,6 @@
-title: PIRS - Psychology-informed Recommender Systems: A Human-centric Perspective on Recommender Systems  
+title: PIRS: Psychology-informed Recommender Systems
+description: >- # this means to ignore newlines until "baseurl:"
+  A Human-centric Perspective on Recommender Systems
 theme: jekyll-theme-cayman
 github:
   is_project_page: false
