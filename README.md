@@ -11,7 +11,7 @@ Preprint available here: https://elisabethlex.info/docs/2021fntir-psychology.pdf
 * Presentation Video ([link]())
 * Proceedings Paper ([link]())
 
-
+## Contacts
 For more information about the tutorial, please contact us at
 
 * Elisabeth Lex <elisabeth.lex@tugraz.at>
