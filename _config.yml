@@ -2,6 +2,6 @@ title: PIRS: Psychology-informed Recommender Systems
 description: >- # this means to ignore newlines until "baseurl:"
   Tutorial web page for WEB 2022 and CHIIR 2022
 # Build settings
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 github:
   is_project_page: false
