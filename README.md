@@ -1,4 +1,4 @@
-This repository contains all the material supporting the tutorial *Psychology-informed Recommender Systems: A Human-centric Perspective on Recommender Systems*. The tutorial is based on a recent article published in Foundations and Trends in Information Retrieval
+This repository contains all the material supporting the tutorial *Psychology-informed Recommender Systems: A Human-centric Perspective on Recommender Systems*. The tutorial is based on a recent long article published in Foundations and Trends in Information Retrieval
 
 Lex, E., Kowald, D., Seitlinger, P., Tran, T.N.T., Felfernig, A., and Schedl, M. Psychology-informed Recommender Systems, 
 Foundations and Trends in Information Retrieval, 15(2):134-242, 2021. http://dx.doi.org/10.1561/1500000090
