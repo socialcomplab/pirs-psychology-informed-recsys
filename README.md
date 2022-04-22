@@ -12,7 +12,7 @@ In this interdisciplinary tutorial, we guide the attendees through the state-of-
 
 ## Tutorial Materials
 
-* The ACM Web Conference 2022 [presentation slides] (./blob/main/Tutorial_PIRS_WEB_2022.pdf)
+* The ACM Web Conference 2022 [presentation slides] (./Tutorial_PIRS_WEB_2022.pdf)
 
 ## Organization
 
