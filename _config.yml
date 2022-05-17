@@ -1,4 +1,5 @@
 title: PIRS - Psychology-informed Recommender Systems
-theme: jekyll-theme-cayman
+remote_theme: socialcomplab/cayman
 github:
   is_project_page: false
+  parent: https://socialcomplab.github.io/
